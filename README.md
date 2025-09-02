@@ -4,6 +4,7 @@ A template FMOD project with all GUIDs replaced and VCAs set up
 IMPORTANT! The bank name can cause a crash on exiting the game.
 
 My tests suggest the name should precede "Master Bank" name alphabetically.
+
 "Mazter" and "New" crash, but "Ma", "Key" or "List" don't.
 
 1. Download, unzip it, open '1.10 fmod ck3 template.fspro' in FMOD.
